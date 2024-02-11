@@ -1,0 +1,98 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I have knowledge and work exprerience in HTML, CSS, Javascript and ReactJs."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I have knowledge & projects on NodeJs using MongoDB & Firebase as Database."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "C++ Programming",
+      "description": "I have knowledge and projects on C++. I solve DSA on Leetcode and GFG."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      "title": "Cloud Computing",
+      "description": "I have certifications of Microsoft Azure & AWS Fundamentals."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/vyakh.jpeg",
+      "title": "Vyaakhyan",
+      "description": "Part of a team project under a Hackathon in which we made a website Vyakhyaan. This website was for our college to schedule classes in different lecture theatres for various branches and semester whenever there is a free slot or a class gets cancelled.",
+      "link": "https://github.com/harshita-vajpayee/Vyakhyan"
+    },
+    {
+      "id": "2",
+      "src": "./img/mt.jpeg",
+      "title": "Transporter Manufacturer Dashboard",
+      "description": "For communication b/w Manufacturers & Transporters. Login/Signup, separate dashboard for both type of users, placing of order by manufacturer & acceptance option for transporter with fees details.",
+      "link": "https://github.com/harshita-vajpayee/Dashboard_for_Manufacturer_Transporter"
+    },
+    {
+      "id": "3",
+      "src": "./img/ecom.jpeg",
+      "title": "E-Commerce Website",
+      "description": "E-commerce Website for online shopping from a variety of prodcuts & billing like Myntra. I designed login/sign up returning to dashboard where u can add items to cart and then proceed for payment & bill. Cart History saved for a particular user.",
+      "link": "View In Github"
+    },
+    {
+        "id": "4",
+      "src": "./img/LLW.png",
+      "title": "Language Learning Website",
+      "description": "A language learning place that helps users improve their language proficiency through interactive exercises and activities. A user can sign in and learn alphabets, pronunciations & can attend quizzes.",
+      "link": "https://github.com/harshita-vajpayee/Language-Learning"
+    },
+    {
+      "id": "5",
+    "src": "./img/keyword.png",
+    "title": "Keyword Popularity Functionality ",
+    "description": "Keyword search volume- means how many times that specific keyword searched on any website. This feature can be added to any e-commerce website to judge products liked by buyers.",
+    "link": "https://github.com/harshita-vajpayee/Etsy_Keyword-Search-Volume"
+  }
+  ],
+  "trainings":[
+    {
+        "id": "1",
+        "src": "./img/corizo.png",
+        "title": "Full Stack Training",
+        "description": "Frontend and Backend Training and 2 Projects(1 individiual and 1 team project) made using HTML, CSS, Javascript and NodeJs.",
+        "link": "https://drive.google.com/file/d/13fiLYbbSVPZcJ2pP4w3rY8vIIkJoWdE9/view?usp=drive_link"
+      },
+      
+      {
+        "id": "2",
+        "src": "./img/wayspire.jfif",
+        "title": "Cloud Training",
+        "description": "Cloud Computing basics and Microsoft Azure knowledge with 1 project. Microsoft AZ 900 exam qualified.",
+        "link": "https://drive.google.com/file/d/1a73_6FZpFr91GH7Uno3z7i3xFgU0auHl/view?usp=drive_link"
+      }
+    ],
+    "work-experience":[
+        {
+            "id": "1",
+            "src": "./img/MN.png",
+            "title": "Frontend Developer Intern",
+            "description": "Frontend development using HTML and Javascript. Made project i.e. KMS website for Iskcon Temple Pune.",
+            "link": "https://drive.google.com/file/d/1mmhwqTwYYhrhKu36xNAtXTtv5iOHHMsm/view?usp=drive_link"
+          },
+          {
+            "id": "2",
+            "src": "./img/gdsc.jfif",
+            "title": "GDSC SMVDU Women in Tech Lead",
+            "description": "Mentored juniors, led and organized events and sessions for GDSC.",
+            "link": "Certificate"
+          }
+    ]
+}
